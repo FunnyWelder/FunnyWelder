@@ -8,7 +8,7 @@
 
 ![Github Badge](https://img.shields.io/badge/-FunnyWelder-grey?style=flat&logo=github&logoColor=black&link=https://github.com/FunnyWelder/) ![Profile views](https://gpvc.arturio.dev/FunnyWelder)
 
-![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=FunnyWelder&theme=outrun&hide_border=true)
+![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=FunnyWelder&theme=radical&hide_border=true)
 ![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=FunnyWelder&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dracula&hide_border=true)
 
 <!--
