@@ -1,4 +1,8 @@
-### Hi there 👋
+### Oh, hello there! 👋
+
+### GH Stats
+![Visitor Count](https://profile-counter.glitch.me/FunnyWelder/count.svg)
+
 
 <!--
 **FunnyWelder/FunnyWelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
