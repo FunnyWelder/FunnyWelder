@@ -1,6 +1,6 @@
-### Oh, hello there! 👋
+<p align="center">### Oh, hello there! 👋 I'm FuWe </p>
 
-### GH Stats
+<p align="center">### GH Stats</p>
 ![Profile views](https://gpvc.arturio.dev/FunnyWelder)
 
 
