@@ -1,7 +1,7 @@
 ### Oh, hello there! 👋
 
 ### GH Stats
-![Visitor Count](https://profile-counter.glitch.me/FunnyWelder/count.svg)
+![Profile views](https://gpvc.arturio.dev/FunnyWelder)
 
 
 <!--
