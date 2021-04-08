@@ -9,7 +9,7 @@
 ![Github Badge](https://img.shields.io/badge/-FunnyWelder-grey?style=flat&logo=github&logoColor=black&link=https://github.com/FunnyWelder/) ![Profile views](https://gpvc.arturio.dev/FunnyWelder)
 
 ![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=FunnyWelder&theme=darcula&hide_border=true)
-![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=FunnyWelder&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=darcula&hide_border=true)
+![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=FunnyWelder&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dracula&hide_border=true)
 
 <!--
 **FunnyWelder/FunnyWelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
