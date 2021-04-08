@@ -1,9 +1,11 @@
 <h1 align="center"> Oh, hello there! 👋 I'm FuWe </h1>
 
-<h1 align="center"> GH Stats </h1>
+<h2 align="center"> GH Stats </h1>
 
-![Profile views](https://gpvc.arturio.dev/FunnyWelder)
+[![Github Badge](https://img.shields.io/badge/-FunnyWelder-grey?style=flat&logo=github&logoColor=black&link=https://github.com/FunnyWelder/)] ![Profile views](https://gpvc.arturio.dev/FunnyWelder)
 
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=FunnyWelder&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/FunnyWelder/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=FunnyWelder&layout=compact)](https://github.com/FunnyWelder/github-readme-stats)
 
 <!--
 **FunnyWelder/FunnyWelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
