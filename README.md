@@ -1,11 +1,17 @@
 <h1 align="center"> Oh, hello there! 👋 I'm FuWe </h1>
 
+- 🔭 I’m currently working on something helpful
+- 🌱 I’m currently learning TypeScript
+- ⚡ Fun fact: kek - it's lol
+
 <h2 align="center"> GH Stats </h1>
 
 ![Github Badge](https://img.shields.io/badge/-FunnyWelder-grey?style=flat&logo=github&logoColor=black&link=https://github.com/FunnyWelder/) ![Profile views](https://gpvc.arturio.dev/FunnyWelder)
 
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=FunnyWelder&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/FunnyWelder/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=FunnyWelder&layout=compact)](https://github.com/FunnyWelder/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=FunnyWelder&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)]
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=FunnyWelder&layout=compact)]
+<img align="center" src="https://github-readme-stats.vercel.app/api/all-stats/?username=FunnyWelder&theme=<THEME_NAME>" />
+
 
 <!--
 **FunnyWelder/FunnyWelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
