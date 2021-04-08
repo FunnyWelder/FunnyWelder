@@ -1,6 +1,7 @@
 <h1 align="center"> Oh, hello there! 👋 I'm FuWe </h1>
 
 <h1 align="center"> GH Stats </h1>
+
 ![Profile views](https://gpvc.arturio.dev/FunnyWelder)
 
 
